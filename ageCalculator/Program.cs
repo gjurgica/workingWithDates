@@ -13,9 +13,16 @@ namespace ageCalculator
             Console.WriteLine("Enter your birthday in this Format(YYYY-MM-DD):");
             string inputDate = Console.ReadLine();
             DateTime birthday = Convert.ToDateTime(inputDate);
-            if (birthday.Day == DateTime.Now.Day)
+            if (birthday.Day == DateTime.Now.Day && birthday.Month == DateTime.Now.Month)
             {
                 Console.WriteLine("Happy Birthday");
+            }
+            else if(birthday.Day - DateTime.Now.Day == 1 && birthday.Month == DateTime.Now.Month){
+                Console.WriteLine("Happy birthday, little late");
+                                        }
+            else if(birthday.Day - DateTime.Now.Day == -1 && birthday.Month == DateTime.Now.Month)
+            {
+                Console.WriteLine("Just one day left to your birthday");
             }
             Console.WriteLine(ageCalculator(birthday));
             Console.ReadLine();
