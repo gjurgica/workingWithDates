@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\bin\Debug\ageCalculator.exe.config
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\bin\Debug\ageCalculator.exe
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\bin\Debug\ageCalculator.pdb
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\obj\Debug\ageCalculator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\obj\Debug\ageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\obj\Debug\ageCalculator.exe
+C:\Users\Asus\source\repos\WorkingWithDates\ageCalculator\obj\Debug\ageCalculator.pdb
