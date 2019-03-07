@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ageCalculator"
+    "\\ageCalculator",
+    "\\WorkingWithDates"
   ],
-  "SelectedNode": "\\ageCalculator\\Program.cs",
+  "SelectedNode": "\\WorkingWithDates.sln",
   "PreviewInSolutionExplorer": false
 }
