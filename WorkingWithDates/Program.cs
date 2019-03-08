@@ -16,6 +16,7 @@ namespace WorkingWithDates
             Console.WriteLine(DateTime.Now.AddYears(-1).AddMonths(-2));
             Console.WriteLine(DateTime.Now.ToString("MMMM"));
             Console.WriteLine(DateTime.Now.Year);
+            Console.WriteLine(DateTime.Now.Month);
             Console.ReadLine();
 
         }

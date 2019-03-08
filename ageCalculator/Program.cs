@@ -52,7 +52,7 @@ namespace ageCalculator
             else if(day < date.Day)
             {
                 calculateMounth--;
-                calculateDays = Math.Abs( mounth - ( Math.Abs(day - date.Day)));
+                calculateDays = Math.Abs( DateTime.DaysInMonth(year,mounth) - ( Math.Abs(day - date.Day)));
             }
             else if(day == date.Day)
             {
